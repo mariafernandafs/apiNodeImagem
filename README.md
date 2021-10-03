@@ -1,5 +1,5 @@
 # apiNodeImagem
-Para iniciar o servidor de aplicação rode os comandos abaixo:
+Para iniciar o servidor de aplicação é necessário rodar os comandos abaixo:
 
 * * * *
 
