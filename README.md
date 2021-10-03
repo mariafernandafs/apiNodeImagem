@@ -1,4 +1,4 @@
-# apiNodeImagem
+# API Node.js Imagens
 Para iniciar o servidor de aplicação é necessário rodar os comandos abaixo:
 
 * * * *
