@@ -4,5 +4,5 @@ const clientes = require('./clientesRoute')
 module.exports = app => {
     app.use(bodyParser.json())
     app.use(clientes)
-    app.get('/', (req, res) => res.send ('Olááá'))
+    app.get('/', (req, res) => res.send ('Olááá  =)'))
 }
